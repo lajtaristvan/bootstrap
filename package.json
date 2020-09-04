@@ -40,7 +40,7 @@
     "clean-css": "^4.2.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "popper.js": "^1.12.9",
     "sass": "^1.23.0",
     "uglify-js": "^3.6.3"
